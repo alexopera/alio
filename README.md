@@ -1,4 +1,3 @@
-# alio
 # Logs
 logs
 *.log
