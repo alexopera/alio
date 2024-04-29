@@ -78,7 +78,6 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -114,5 +113,6 @@ pycache/
 
 # VSCode
 .vscode/launch.json
+.vercel
 packages/protocol/config.js
 .vercel
