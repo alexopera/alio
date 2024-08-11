@@ -14,7 +14,7 @@ lib-c
 
 # Coverage directory used by tools like istanbul
 coverage
-*.lcov
+
 
 # nyc test coverage
 .nyc
