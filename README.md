@@ -93,7 +93,7 @@ typings/
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-
 
 # macOS
 .DS_Store
