@@ -1,6 +1,5 @@
 # Logs
 logs
-*.log
 npm-debug.
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
