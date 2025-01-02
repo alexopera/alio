@@ -1,6 +1,6 @@
 # Logs
 logs
-npm-d
+npm-dnnv
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.json
