@@ -1,5 +1,5 @@
 # Logs
-logs gg
+logs g
 npm-dn hg
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
