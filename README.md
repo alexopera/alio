@@ -1,6 +1,6 @@
 # Logs
 logs go
-npm-dn go
+npm-dn 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.json
