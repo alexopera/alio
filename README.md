@@ -1,5 +1,5 @@
 # Logs
-logs g
+logs go
 npmbb jh
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
