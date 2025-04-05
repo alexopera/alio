@@ -1,4 +1,3 @@
-# Logs
 logs 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
