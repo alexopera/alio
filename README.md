@@ -1,4 +1,4 @@
-log
+log 5
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.json
