@@ -2,7 +2,7 @@ log
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.json
-reportT.*.json
+reportT.*.jsonN
 
 # Runtime data
 pids in row in China
